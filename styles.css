@@ -1,0 +1,71 @@
+.navBar {
+    min-height: 40px;
+    background-color: cadetblue;
+}
+
+.navigation {
+    float: left;
+    background-color: aquamarine;
+    padding: 10px 20px;
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-top: 2px;
+}
+
+.left {
+    width: 30%;
+    float: left;
+    height: 700px;
+    background-color: goldenrod;
+}
+
+.top {
+    height: 350px;
+    background-color: lightpink;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.bottom {
+    height: 450px;
+    background-color: darkturquoise;
+}
+
+.main {
+    float: right;
+    width: 70%;
+    padding-left: 15px;
+    height: 800px;
+    background-color: darkseagreen;
+}
+
+.heading1 {
+    text-align: center;
+}
+
+.handsome {
+    height: 300px;
+    width: auto;
+}
+
+.sunglasses {
+    height: 260px;
+    width: auto;
+}
+
+.baby1 {
+    height: 300px;
+    width: auto;
+}
+
+.baby {
+    height: 300px;
+    width: auto;
+}
+
+.baby2 {
+    height: 300px;
+    width: auto;
+}
