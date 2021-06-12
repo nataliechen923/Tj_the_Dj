@@ -15,7 +15,7 @@
 }
 
 .left {
-    width: 30%;
+    width: 29%;
     float: left;
     height: 700px;
     background-color: goldenrod;
@@ -37,7 +37,7 @@
     float: right;
     width: 70%;
     padding-left: 15px;
-    height: 800px;
+    height: 815px;
     background-color: darkseagreen;
 }
 
